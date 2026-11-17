@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" shape-rendering="crispEdges" role="img" aria-labelledby="title desc">
+  <title id="title">My best friend is mi Mac and Claude</title>
+  <desc id="desc">A pixel-art game scene of a developer at a Mac, with Claude as a little companion.</desc>
+  <rect width="900" height="360" fill="#151923"/>
+  <rect x="0" y="270" width="900" height="90" fill="#20283a"/>
+  <rect x="0" y="270" width="900" height="8" fill="#39445d"/>
+
+  <!-- Pixel stars -->
+  <g fill="#f6d365">
+    <rect x="92" y="54" width="8" height="8"/><rect x="100" y="46" width="8" height="8"/><rect x="108" y="54" width="8" height="8"/><rect x="100" y="62" width="8" height="8"/>
+    <rect x="772" y="76" width="8" height="8"/><rect x="780" y="68" width="8" height="8"/><rect x="788" y="76" width="8" height="8"/><rect x="780" y="84" width="8" height="8"/>
+    <rect x="700" y="190" width="8" height="8"/><rect x="228" y="116" width="8" height="8"/>
+  </g>
+  <g fill="#a8b4d0"><rect x="182" y="76" width="6" height="6"/><rect x="650" y="48" width="6" height="6"/><rect x="832" y="160" width="6" height="6"/><rect x="64" y="180" width="6" height="6"/></g>
+
+  <!-- Headline -->
+  <g font-family="monospace" font-weight="700" text-anchor="middle">
+    <text x="450" y="50" font-size="24" fill="#f4f1e8">MY BEST FRIEND IS</text>
+    <text x="450" y="83" font-size="24" fill="#f6d365">MI MAC AND CLAUDE</text>
+  </g>
+
+  <!-- Developer character -->
+  <g>
+    <!-- hair -->
+    <rect x="340" y="124" width="72" height="12" fill="#292338"/>
+    <rect x="332" y="136" width="88" height="32" fill="#292338"/>
+    <rect x="340" y="168" width="72" height="8" fill="#292338"/>
+    <!-- face -->
+    <rect x="348" y="144" width="56" height="32" fill="#f0b98c"/>
+    <rect x="340" y="152" width="8" height="16" fill="#f0b98c"/>
+    <rect x="404" y="152" width="8" height="16" fill="#f0b98c"/>
+    <rect x="356" y="154" width="8" height="8" fill="#252839"/><rect x="388" y="154" width="8" height="8" fill="#252839"/>
+    <rect x="368" y="168" width="24" height="4" fill="#b96f62"/>
+    <!-- hoodie -->
+    <rect x="332" y="180" width="88" height="56" fill="#4d72b8"/>
+    <rect x="348" y="180" width="56" height="12" fill="#7096dc"/>
+    <rect x="356" y="192" width="8" height="28" fill="#d7e2ff"/><rect x="388" y="192" width="8" height="28" fill="#d7e2ff"/>
+    <rect x="312" y="196" width="20" height="28" fill="#f0b98c"/><rect x="420" y="196" width="20" height="28" fill="#f0b98c"/>
+    <rect x="340" y="236" width="28" height="26" fill="#30394d"/><rect x="384" y="236" width="28" height="26" fill="#30394d"/>
+    <rect x="332" y="258" width="40" height="12" fill="#c4d5f5"/><rect x="376" y="258" width="44" height="12" fill="#c4d5f5"/>
+  </g>
+
+  <!-- MacBook -->
+  <g>
+    <rect x="286" y="218" width="184" height="8" fill="#dce4f4"/>
+    <rect x="302" y="156" width="152" height="62" fill="#b8c4dc"/>
+    <rect x="310" y="164" width="136" height="46" fill="#202d49"/>
+    <rect x="326" y="178" width="24" height="6" fill="#f6d365"/><rect x="354" y="178" width="52" height="6" fill="#86d7c2"/>
+    <rect x="326" y="190" width="48" height="6" fill="#86d7c2"/><rect x="378" y="190" width="36" height="6" fill="#f6d365"/>
+    <rect x="286" y="226" width="184" height="8" fill="#edf1f8"/>
+    <rect x="354" y="226" width="48" height="4" fill="#8e9bb4"/>
+  </g>
+
+  <!-- Claude buddy -->
+  <g>
+    <rect x="520" y="168" width="96" height="72" fill="#e77f4b"/>
+    <rect x="532" y="156" width="72" height="12" fill="#f39a61"/>
+    <rect x="508" y="180" width="12" height="48" fill="#f39a61"/><rect x="616" y="180" width="12" height="48" fill="#f39a61"/>
+    <rect x="536" y="188" width="12" height="12" fill="#24283a"/><rect x="588" y="188" width="12" height="12" fill="#24283a"/>
+    <rect x="552" y="212" width="32" height="6" fill="#783d3a"/>
+    <rect x="548" y="240" width="16" height="20" fill="#d96742"/><rect x="580" y="240" width="16" height="20" fill="#d96742"/>
+    <rect x="536" y="260" width="32" height="8" fill="#f6d365"/><rect x="576" y="260" width="32" height="8" fill="#f6d365"/>
+    <rect x="540" y="176" width="56" height="6" fill="#ffd0a5"/>
+  </g>
+
+  <!-- speech bubble -->
+  <g>
+    <rect x="638" y="120" width="166" height="52" fill="#f4f1e8"/>
+    <rect x="654" y="172" width="16" height="8" fill="#f4f1e8"/>
+    <text x="721" y="143" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#252839">LET'S SHIP IT!</text>
+    <text x="721" y="160" text-anchor="middle" font-family="monospace" font-size="11" fill="#59627a">— Claude</text>
+  </g>
+
+  <text x="450" y="316" text-anchor="middle" font-family="monospace" font-size="12" fill="#a8b4d0">PLAYER 1  ·  MAC  ·  CLAUDE  ·  INFINITE SIDE QUESTS</text>
+</svg>
